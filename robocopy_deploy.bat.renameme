@@ -1,0 +1,3 @@
+set SCIDPATH=F:\Games\scid_windows_x64
+xcopy.exe "target\japanese.tcl" "%SCIDPATH%\bin\tcl\lang\" /Y
+rem pause
