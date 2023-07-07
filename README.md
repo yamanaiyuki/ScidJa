@@ -62,6 +62,10 @@ NAGには従来通りの翻訳を採用しているため、近年よく利用�
 リソースのPhotosディレクトリは空欄のままにしておいてください。
 
 
+# 翻訳プロジェクトファイルについて
+翻訳にはOmegaTを使用しています。原文および翻訳文以外のファイル(omegat.projectおよびフォルダに存在しているファイル)はOmegaTで読み込む際に使用します。
+
+
 # ライセンス
 Copyright (c) 2023 yamanaiyuki
 This program is free software; you can redistribute it and/or
