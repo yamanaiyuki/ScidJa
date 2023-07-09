@@ -1179,7 +1179,7 @@ translate J SelectOlderGames {古いゲームのみ}
 
 # Delete Twins window:
 translate J TwinsNote {2つのゲームが重複になるには、少なくとも2人のプレーヤーが必要で、基準は以下のように設定可能です。重複のペアが見つかった場合、短い方が削除されます。ヒント:重複の検出精度の向上のため、重複削除の前にデータベースのスペルチェックを行うことをお勧めします。}
-translate J TwinsCriteria {基準: 重複ゲームは次の条件...}
+translate J TwinsCriteria {重複ゲームの条件}
 translate J TwinsWhich {ゲームを調べる}
 translate J TwinsColors {プレーヤーの色が同じ}
 translate J TwinsEvent {同じイベント}
@@ -1200,11 +1200,11 @@ translate J TwinsUndelete {最初にすべての削除を取り消す}
 translate J TwinsSetFilter {削除された重複ゲームすべてをフィルター}
 translate J TwinsComments {常にコメント付きのゲームを保持}
 translate J TwinsVars {常にバリエーション付きのゲームを保持}
-translate J TwinsDeleteWhich {ゲームされた削除}
+translate J TwinsDeleteWhich {ゲームを削除}
 translate J TwinsDeleteShorter {短いゲーム}
 translate J TwinsDeleteOlder {小さいゲーム番号}
 translate J TwinsDeleteNewer {大きいゲーム番号}
-translate J TwinsDelete {ゲームを削除}
+translate J TwinsDelete {削除}
 
 # Name editor window:
 translate J NameEditType {修正する名前のタイプ}

@@ -32693,8 +32693,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J TwinsCriteria {Criteria: Twin games must have...}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T013329Z" creationid="yamanaiyuki" creationdate="20230619T013329Z">
-        <seg>translate J TwinsCriteria {基準: 重複ゲームは次の条件...}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230709T032604Z" creationid="yamanaiyuki" creationdate="20230619T013329Z">
+        <seg>translate J TwinsCriteria {重複ゲームの条件}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32709,8 +32709,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J TwinsDelete {Delete games}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230616T052037Z" creationid="yamanaiyuki" creationdate="20230616T052037Z">
-        <seg>translate J TwinsDelete {ゲームを削除}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230709T032608Z" creationid="yamanaiyuki" creationdate="20230616T052037Z">
+        <seg>translate J TwinsDelete {削除}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32741,8 +32741,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J TwinsDeleteWhich {Delete game}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T014045Z" creationid="yamanaiyuki" creationdate="20230619T014045Z">
-        <seg>translate J TwinsDeleteWhich {ゲームされた削除}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230709T025648Z" creationid="yamanaiyuki" creationdate="20230619T014045Z">
+        <seg>translate J TwinsDeleteWhich {ゲームを削除}</seg>
       </tuv>
     </tu>
     <tu>
