@@ -72,7 +72,7 @@ PGNウィンドウ内で誤ってCtrl+Aを押してしまうと「()」という
 ## 起動が重い/遅くなった場合は
 適切にPhotosディレクトリを設定してしまうと読み込みに時間がかかます。
 リソースダイアログのPhotosディレクトリは空欄のままにしておいてください。
-
+![ダイアログ画面](https://github.com/yamanaiyuki/ScidJa/blob/images/resource-dialog.png)
 
 # 翻訳プロジェクトファイルについて
 翻訳にはOmegaTを使用しています。原文および翻訳文以外のファイル(omegat.projectおよびフォルダに存在しているファイル)はOmegaTで読み込む際に使用します。
