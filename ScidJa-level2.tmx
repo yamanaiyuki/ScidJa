@@ -1392,8 +1392,8 @@
       <tuv xml:lang="en-US">
         <seg>&lt;a Annotating Null&gt;Null&lt;/a&gt; (empty) moves can be useful in variations, where you want to skip a move for one side.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230623T143102Z" creationid="yamanaiyuki" creationdate="20230623T042225Z">
-        <seg>&lt;a Annotating Null&gt;Null&lt;/a&gt; (空の)移動は片方の指し手をスキップしたいバリエーションで便利です。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T015553Z" creationid="yamanaiyuki" creationdate="20230623T042225Z">
+        <seg>&lt;a Annotating Null&gt;Null&lt;/a&gt;(空の)移動は片方の指し手をスキップしたいバリエーションで便利です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10492,8 +10492,8 @@
       <tuv xml:lang="en-US">
         <seg>Finish configuration before hooking up the hardware.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230704T060233Z" creationid="yamanaiyuki" creationdate="20230704T060233Z">
-        <seg>ハードウェアを接続する前に設定を完了します。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T021059Z" creationid="yamanaiyuki" creationdate="20230704T060233Z">
+        <seg>ハードウェアを接続する前に設定を完了してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11828,8 +11828,8 @@
       <tuv xml:lang="en-US">
         <seg>If you want a database to be opened read-only, just set the permissions of its Scid files, or at least its index file, for example: &lt;b&gt;chmod a-w myfile.si3&lt;/b&gt; as a shell command, and it will be opened read-only by Scid.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230622T131212Z" creationid="yamanaiyuki" creationdate="20230621T055941Z">
-        <seg>データベースを読み取り専用で開きたい場合は、そのScidファイル、または少なくともそのインデックスファイルのアクセス許可を設定するだけです。例えば &lt;b&gt;chmod a-w myfile.si3&lt;/b&gt; とシェルコマンドを設定します。これによってScidでは読み取り専用で開かれます。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T015537Z" creationid="yamanaiyuki" creationdate="20230621T055941Z">
+        <seg>データベースを読み取り専用で開きたい場合は、そのScidファイル、または少なくともそのインデックスファイルのアクセス許可を設定するだけです。例えば &lt;b&gt;chmod a-w myfile.si3&lt;/b&gt;とシェルコマンドを設定します。これによってScidでは読み取り専用で開かれます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14394,11 +14394,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>ヘルプ原文がtypoしてて&lt;a&gt;が閉じてない</note>
       <tuv xml:lang="en-US">
         <seg>The &lt;a HardwareConfig&lt;/a&gt; dialogue is open.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230704T060212Z" creationid="yamanaiyuki" creationdate="20230704T060212Z">
-        <seg>&lt;a HardwareConfig&lt;/a&gt; ダイアログが開いています。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T021240Z" creationid="yamanaiyuki" creationdate="20230704T060212Z">
+        <seg>&lt;a HardwareConfig&gt;外部ハードウェア&lt;/a&gt;ダイアログが開いています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14565,8 +14566,8 @@
       <tuv xml:lang="en-US">
         <seg>The &lt;term&gt;File Finder&lt;/term&gt; helps you find files of any type you can use in Scid: databases, &lt;a PGN&gt;PGN&lt;/a&gt; files, &lt;a EPD&gt;EPD&lt;/a&gt; files, and &lt;a Repertoire&gt;repertoire&lt;/a&gt; files.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230624T232148Z" creationid="yamanaiyuki" creationdate="20230624T232026Z">
-        <seg>&lt;term&gt;ファイルファインダー&lt;/term&gt;は&lt;a PGN&gt;PGN&lt;/a&gt; ファイル、&lt;a EPD&gt;EPD&lt;/a&gt; ファイル、&lt;a Repertoire&gt;レパートリー&lt;/a&gt;ファイルなどScidで使用できるあらゆるタイプのファイルを探すのに役立ちます。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T015621Z" creationid="yamanaiyuki" creationdate="20230624T232026Z">
+        <seg>&lt;term&gt;ファイルファインダー&lt;/term&gt;は&lt;a PGN&gt;PGN&lt;/a&gt;ファイル、&lt;a EPD&gt;EPD&lt;/a&gt;ファイル、&lt;a Repertoire&gt;レパートリー&lt;/a&gt;ファイルなどScidで使用できるあらゆるタイプのファイルを探すのに役立ちます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15824,8 +15825,8 @@
       <tuv xml:lang="en-US">
         <seg>The second section contains the actual moves of the game, in standard algebraic notation (SAN) along with any variations, &lt;a NAGs&gt;annotation symbols&lt;/a&gt; and &lt;a Comment&gt;comments&lt;/a&gt;.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230625T121223Z" creationid="yamanaiyuki" creationdate="20230625T115326Z">
-        <seg>2つ目のセクションには標準代数記法(SAN)で実際のゲームの指し手が、バリエーション、&lt;a NAGs&gt;注釈記号&lt;/a&gt;、&lt;a Comment&gt; コメント&lt;/a&gt;と共に含まれています。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T015431Z" creationid="yamanaiyuki" creationdate="20230625T115326Z">
+        <seg>2つ目のセクションには標準代数記法(SAN)で実際のゲームの指し手が、バリエーション、&lt;a NAGs&gt;注釈記号&lt;/a&gt;、&lt;a Comment&gt;コメント&lt;/a&gt;と共に含まれています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18233,8 +18234,8 @@
       <tuv xml:lang="en-US">
         <seg>When searching for a particular material situation in the &lt;a Searches Material&gt;Material/Pattern&lt;/a&gt; search window, it is often useful to restrict the search to games that match for at least a few half-moves to eliminate games where the searched-for situation only occurred briefly.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230620T103802Z" creationid="yamanaiyuki" creationdate="20230620T103802Z">
-        <seg>&lt;a Searches Material&gt;マテリアル/パターン&lt;/a&gt; 検索ウィンドウで特定のマテリアルの状況を検索する場合、検索された状況が短時間しか発生しないゲームを除外するために、少なくとも数半手にわたって一致するゲームに限定しておくことがしばしば有用です。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T015517Z" creationid="yamanaiyuki" creationdate="20230620T103802Z">
+        <seg>&lt;a Searches Material&gt;マテリアル/パターン&lt;/a&gt;検索ウィンドウで特定のマテリアルの状況を検索する場合、検索された状況が短時間しか発生しないゲームを除外するために、少なくとも数半手にわたって一致するゲームに限定しておくことがしばしば有用です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18249,8 +18250,8 @@
       <tuv xml:lang="en-US">
         <seg>When studying an opening, it can be very useful to do a &lt;a Searches Board&gt;board search&lt;/a&gt; with the &lt;b&gt;Pawns&lt;/b&gt; or &lt;b&gt;Files&lt;/b&gt; option on an important opening position, as this may reveal other openings that reach the same pawn structure.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230620T102757Z" creationid="yamanaiyuki" creationdate="20230620T102757Z">
-        <seg>オープニングを研究するとき、重要なオープニングポジションで &lt;b&gt;ポーン&lt;/b&gt; または &lt;b&gt;ファイル&lt;/b&gt;オプションを使用して &lt;a Searches Board&gt;ボード検索&lt;/a&gt;を実行すると非常に便利です。同じポーン構造に到達する他のオープニングが明らかになる可能性があるためです。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T015506Z" creationid="yamanaiyuki" creationdate="20230620T102757Z">
+        <seg>オープニングを研究するとき、重要なオープニングポジションで &lt;b&gt;ポーン&lt;/b&gt;または &lt;b&gt;ファイル&lt;/b&gt;オプションを使用して &lt;a Searches Board&gt;ボード検索&lt;/a&gt;を実行すると非常に便利です。同じポーン構造に到達する他のオープニングが明らかになる可能性があるためです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18502,11 +18503,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>原文のコメントエディタのリンクが閉じていないので押せない。</note>
       <tuv xml:lang="en-US">
         <seg>You can add the most common annotation symbols (!, !?, +=, etc) to the current move or position with keyboard shortcuts without needing to use the &lt;a Comment&gt;comment editor&lt;a&gt; -- for example, type "!" then the Return key to add a "!" annotation symbol.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230624T045547Z" creationid="yamanaiyuki" creationdate="20230620T104548Z">
-        <seg>&lt;a Comment&gt;コメントエディタ&lt;a&gt;を使用しなくても、キーボードショートカットで現在の手またはポジションに最も一般的な注釈記号(!、 !?、 +=など)を追加できます。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T021917Z" creationid="yamanaiyuki" creationdate="20230620T104548Z">
+        <seg>&lt;a Comment&gt;コメントエディタ&lt;/a&gt;を使用しなくても、キーボードショートカットで現在の手またはポジションに最も一般的な注釈記号(!、!?、+=など)を追加できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20766,11 +20768,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>include Arrow→Show Arrowに原文が変更されている</note>
       <tuv xml:lang="en-US">
         <seg>menuText J OptionsMovesHighlightLastMoveArrow "include Arrow" 0 {Include Arrow with Highlight}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230615T040918Z" creationid="yamanaiyuki" creationdate="20230615T040918Z">
-        <seg>menuText J OptionsMovesHighlightLastMoveArrow "矢印を含める" 0 {ハイライトに矢印を含める}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T033019Z" creationid="yamanaiyuki" creationdate="20230615T040918Z">
+        <seg>menuText J OptionsMovesHighlightLastMoveArrow "矢印を表示" 0 {ハイライトに矢印を含める}</seg>
       </tuv>
     </tu>
     <tu>
@@ -20782,11 +20785,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Show→Show Squareに原文が変更されている</note>
       <tuv xml:lang="en-US">
         <seg>menuText J OptionsMovesHighlightLastMoveDisplay "Show" 0 {Display last move Highlight}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230615T040810Z" creationid="yamanaiyuki" creationdate="20230615T040810Z">
-        <seg>menuText J OptionsMovesHighlightLastMoveDisplay "表示" 0 {最後の手をハイライト}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T032959Z" creationid="yamanaiyuki" creationdate="20230615T040810Z">
+        <seg>menuText J OptionsMovesHighlightLastMoveDisplay "マスを表示" 0 {最後の手をハイライト}</seg>
       </tuv>
     </tu>
     <tu>
