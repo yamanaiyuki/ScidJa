@@ -1,9 +1,12 @@
+.hg
+.hgignore
+.hglf
+.hgtags
+dictionary
 omegat/*.bak
 omegat/*.properties
 omegat/*.txt
-dictionary/stardict.dict
-dictionary/stardict.idx
-dictionary/stardict.ifo
 robocopy.log
 *.bat
 *.lnk
+*.wav

@@ -1,5 +1,0 @@
-set SCIDPATH=F:\Games\scid_windows_x64
-robocopy.exe "%SCIDPATH%\bin\tcl\lang" "backup_english" english.tcl /mir /r:3 /w:1 /log:robocopy.log
-robocopy.exe "%SCIDPATH%\bin\tcl\help" "backup_english" help.tcl /mir /r:3 /w:1 /log+:robocopy.log
-robocopy.exe "%SCIDPATH%\bin\tcl\help" "backup_english" tips.tcl /mir /r:3 /w:1 /log+:robocopy.log
-rem pause
