@@ -23342,8 +23342,8 @@
       <tuv lang="en-US">
         <seg>translate J Ambiguous {Ambiguous}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230616T042755Z" creationid="yamanaiyuki" creationdate="20230616T042755Z">
-        <seg>translate J Ambiguous {多義の}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230724T214332Z" creationid="yamanaiyuki" creationdate="20230616T042755Z">
+        <seg>translate J Ambiguous {あいまい}</seg>
       </tuv>
     </tu>
     <tu>

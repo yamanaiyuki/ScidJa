@@ -1,0 +1,3 @@
+*.conf      text eol=crlf
+*.project   text eol=crlf
+*.tmx       text eol=crlf

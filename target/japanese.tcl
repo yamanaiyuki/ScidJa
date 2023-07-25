@@ -1651,7 +1651,7 @@ translate J FullScreen {全画面}
 translate J FilterStatistic {統計をフィルター}
 translate J MakeCorrections {修正を行う}
 translate J Surnames {名字}
-translate J Ambiguous {多義の}
+translate J Ambiguous {あいまい}
 
 #Preferences Dialog
 translate J OptionsToolbar "ツールバー"
