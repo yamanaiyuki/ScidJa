@@ -9860,7 +9860,7 @@
       <tuv xml:lang="en-US">
         <seg>At the bottom of the book window, the button &lt;i&gt;Other moves&lt;/i&gt; displays the moves that are not present in the book but part of lines that are present later on in the book.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230701T152739Z" creationid="yamanaiyuki" creationdate="20230701T152540Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230726T142819Z" creationid="yamanaiyuki" creationdate="20230701T152540Z">
         <seg>ブックウィンドウの下部にある&lt;i&gt;相手の指し手&lt;/i&gt;ボタンはブックには存在しないがブックの後に存在するラインの一部となる指し手を表示します。</seg>
       </tuv>
     </tu>
@@ -15192,7 +15192,7 @@
       <tuv xml:lang="en-US">
         <seg>The display of those &lt;i&gt;Other moves&lt;/i&gt; shows where there are holes in a book.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230701T152930Z" creationid="yamanaiyuki" creationdate="20230701T152930Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230726T142834Z" creationid="yamanaiyuki" creationdate="20230701T152930Z">
         <seg>これらの&lt;i&gt;相手の指し手&lt;/i&gt;の表示はブックのどこに穴があるかを示します。</seg>
       </tuv>
     </tu>
@@ -27487,8 +27487,8 @@
       <tuv xml:lang="en-US">
         <seg>translate J Movesloaded {Moves loaded}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230619T124955Z" creationid="yamanaiyuki" creationdate="20230619T124955Z">
-        <seg>translate J Movesloaded {指し手が読み込まれました}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230726T143026Z" creationid="yamanaiyuki" creationdate="20230619T124955Z">
+        <seg>translate J Movesloaded {読み込まれた手数}</seg>
       </tuv>
     </tu>
     <tu>

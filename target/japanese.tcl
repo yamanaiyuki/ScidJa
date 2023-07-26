@@ -1387,7 +1387,7 @@ translate J OnlyFlaggedLines {フラグが設定されたラインのみ}
 translate J resetStats {統計をリセット}
 translate J Repertoiretrainingconfiguration {レパートリートレーニングの設定}
 translate J Loadingrepertoire {レパートリーの読み込み}
-translate J Movesloaded {指し手が読み込まれました}
+translate J Movesloaded {読み込まれた手数}
 translate J Repertoirenotfound {レパートリーが見つかりません}
 translate J Openfirstrepertoirewithtype {最初にアイコン/タイプが右側に設定されたレパートリーデータベースを開きます}
 translate J Movenotinrepertoire {レパートリーにない指し手}
