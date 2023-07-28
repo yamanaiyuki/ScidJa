@@ -19697,10 +19697,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>menuText J EditStrip "Strip" 2 {Strip comments or variations from this game}</seg>
+        <seg>menuText J EditStrip "Strip" 3 {Strip comments or variations from this game}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230616T170519Z" creationid="yamanaiyuki" creationdate="20230616T020614Z">
-        <seg>menuText J EditStrip "削除" 2 {このゲームからコメントやバリエーションを削除}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230728T035215Z" creationid="yamanaiyuki" creationdate="20230728T035207Z">
+        <seg>menuText J EditStrip "削除" 3 {このゲームからコメントやバリエーションを削除}</seg>
       </tuv>
     </tu>
     <tu>

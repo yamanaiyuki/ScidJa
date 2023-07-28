@@ -63,7 +63,7 @@ menuText J EditMain "バリエーションをメインラインに昇格" 21 \
   {バリエーションをメインラインに昇格させる}
 menuText J EditTrial "バリエーションを試す" 0 \
   {ボード上のアイデアをテストするためトライアルモードの開始/停止}
-menuText J EditStrip "削除" 2 {このゲームからコメントやバリエーションを削除}
+menuText J EditStrip "削除" 3 {このゲームからコメントやバリエーションを削除}
 menuText J EditUndo "取り消す" 0 {ゲームの最後の変更を取り消す}
 menuText J EditRedo "やり直す" 0 {ゲームの最後の変更をやり直す}
 menuText J EditStripComments "すべてのコメント" 0 \

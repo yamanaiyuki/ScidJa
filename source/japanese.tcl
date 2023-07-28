@@ -63,7 +63,7 @@ menuText J EditMain "Promote Variation to Main Line" 21 \
   {Promote a variation to be the main line}
 menuText J EditTrial "Try Variation" 0 \
   {Start/stop trial mode, for testing an idea on the board}
-menuText J EditStrip "Strip" 2 {Strip comments or variations from this game}
+menuText J EditStrip "Strip" 3 {Strip comments or variations from this game}
 menuText J EditUndo "Undo" 0 {Undo last game change}
 menuText J EditRedo "Redo" 0 {Redo last game change}
 menuText J EditStripComments "Comments" 0 \
@@ -231,10 +231,10 @@ menuText J OptionsGInfo "Game Information" 0 {Game information options}
 menuText J OptionsLanguage "Language" 0 {Select menu language}
 menuText J OptionsMovesTranslatePieces "Translate pieces" 0 {Translate first letter of pieces}
 menuText J OptionsMovesHighlightLastMove "Highlight last move" 0 {Highlight last move}
-menuText J OptionsMovesHighlightLastMoveDisplay "Show" 0 {Display last move Highlight}
+menuText J OptionsMovesHighlightLastMoveDisplay "Show Square" 0 {Display last move Highlight}
 menuText J OptionsMovesHighlightLastMoveWidth "Width" 0 {Thickness of line}
 menuText J OptionsMovesHighlightLastMoveColor "Color" 0 {Color of line}
-menuText J OptionsMovesHighlightLastMoveArrow "include Arrow" 0 {Include Arrow with Highlight}
+menuText J OptionsMovesHighlightLastMoveArrow "Show Arrow" 0 {Show a Arrow with Highlight}
 menuText J OptionsMoves "Moves" 0 {Move entry options}
 menuText J OptionsMovesAnimate "Animation Time" 1 \
   {Set the amount of time used to animate moves}
