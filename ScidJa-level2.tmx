@@ -20768,11 +20768,10 @@
       </tuv>
     </tu>
     <tu>
-      <note>include Arrow→Show Arrowに原文が変更されている</note>
       <tuv xml:lang="en-US">
-        <seg>menuText J OptionsMovesHighlightLastMoveArrow "include Arrow" 0 {Include Arrow with Highlight}</seg>
+        <seg>menuText J OptionsMovesHighlightLastMoveArrow "Show Arrow" 0 {Show a Arrow with Highlight}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T033019Z" creationid="yamanaiyuki" creationdate="20230615T040918Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T002832Z" creationid="yamanaiyuki" creationdate="20230731T002832Z">
         <seg>menuText J OptionsMovesHighlightLastMoveArrow "矢印を表示" 0 {ハイライトに矢印を含める}</seg>
       </tuv>
     </tu>
@@ -20785,11 +20784,10 @@
       </tuv>
     </tu>
     <tu>
-      <note>Show→Show Squareに原文が変更されている</note>
       <tuv xml:lang="en-US">
-        <seg>menuText J OptionsMovesHighlightLastMoveDisplay "Show" 0 {Display last move Highlight}</seg>
+        <seg>menuText J OptionsMovesHighlightLastMoveDisplay "Show Square" 0 {Display last move Highlight}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230720T032959Z" creationid="yamanaiyuki" creationdate="20230615T040810Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T002859Z" creationid="yamanaiyuki" creationdate="20230731T002859Z">
         <seg>menuText J OptionsMovesHighlightLastMoveDisplay "マスを表示" 0 {最後の手をハイライト}</seg>
       </tuv>
     </tu>
@@ -28007,8 +28005,8 @@
       <tuv xml:lang="en-US">
         <seg>translate J OprepEvery {once every %u games}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T002529Z" creationid="yamanaiyuki" creationdate="20230618T002529Z">
-        <seg>translate J OprepEvery {%u ゲーム毎に1回}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T004303Z" creationid="yamanaiyuki" creationdate="20230618T002529Z">
+        <seg>translate J OprepEvery {%u 毎の頻度}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28239,7 +28237,7 @@
       <tuv xml:lang="en-US">
         <seg>translate J OprepStatAll {All report games}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230625T015822Z" creationid="yamanaiyuki" creationdate="20230615T090736Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T002810Z" creationid="yamanaiyuki" creationdate="20230615T090736Z">
         <seg>translate J OprepStatAll {全てのゲーム}</seg>
       </tuv>
     </tu>
@@ -28287,24 +28285,24 @@
       <tuv xml:lang="en-US">
         <seg>translate J OprepTheme1BishopPair {Only one side has Bishop pair}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132911Z" creationid="yamanaiyuki" creationdate="20230618T132911Z">
-        <seg>translate J OprepTheme1BishopPair {片側のみがビショップのペアを持つ}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T001301Z" creationid="yamanaiyuki" creationdate="20230618T132911Z">
+        <seg>translate J OprepTheme1BishopPair {片側がビショップペア}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeBIQP {Black Isolated Queen Pawn}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132701Z" creationid="yamanaiyuki" creationdate="20230618T132701Z">
-        <seg>translate J OprepThemeBIQP {黒の孤立したクイーン側のポーン}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230730T235457Z" creationid="yamanaiyuki" creationdate="20230618T132701Z">
+        <seg>translate J OprepThemeBIQP {黒の孤立したクイーン側ポーン}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeBP234 {Black Pawn on 2/3/4th rank}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132743Z" creationid="yamanaiyuki" creationdate="20230618T132743Z">
-        <seg>translate J OprepThemeBP234 {黒の2/3/4段のポーン}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T002319Z" creationid="yamanaiyuki" creationdate="20230618T132743Z">
+        <seg>translate J OprepThemeBP234 {黒の２／３／４段目のポーン　}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28319,31 +28317,31 @@
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeKPawnStorm {Kingside pawn storm}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132601Z" creationid="yamanaiyuki" creationdate="20230618T132601Z">
-        <seg>translate J OprepThemeKPawnStorm {キングサイドのポーンの突進}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230730T235439Z" creationid="yamanaiyuki" creationdate="20230618T132601Z">
+        <seg>translate J OprepThemeKPawnStorm {キング側ポーンの突進}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeNoCastling {Both Kings uncastled}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132545Z" creationid="yamanaiyuki" creationdate="20230618T132545Z">
-        <seg>translate J OprepThemeNoCastling {両方ともキャスリングしていない}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230730T234943Z" creationid="yamanaiyuki" creationdate="20230618T132545Z">
+        <seg>translate J OprepThemeNoCastling {両方ともキャスリングなし}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeOpenCDE {Open c/d/e file}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132804Z" creationid="yamanaiyuki" creationdate="20230618T132804Z">
-        <seg>translate J OprepThemeOpenCDE {c/d/eのオープンファイル}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T000828Z" creationid="yamanaiyuki" creationdate="20230618T132804Z">
+        <seg>translate J OprepThemeOpenCDE {ｃ／ｄ／ｅのオープンファイル}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeOppCastling {Opposite castling}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132524Z" creationid="yamanaiyuki" creationdate="20230618T132524Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230730T235712Z" creationid="yamanaiyuki" creationdate="20230618T132524Z">
         <seg>translate J OprepThemeOppCastling {反対側のキャスリング}</seg>
       </tuv>
     </tu>
@@ -28351,15 +28349,15 @@
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeQueenswap {Queens exchanged}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132620Z" creationid="yamanaiyuki" creationdate="20230618T132620Z">
-        <seg>translate J OprepThemeQueenswap {クイーンの交換}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T001418Z" creationid="yamanaiyuki" creationdate="20230618T132620Z">
+        <seg>translate J OprepThemeQueenswap {クイーン同士を交換済}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeSameCastling {Same-side castling}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132514Z" creationid="yamanaiyuki" creationdate="20230618T132514Z">
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230730T235716Z" creationid="yamanaiyuki" creationdate="20230618T132514Z">
         <seg>translate J OprepThemeSameCastling {同じ側のキャスリング}</seg>
       </tuv>
     </tu>
@@ -28367,16 +28365,16 @@
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeWIQP {White Isolated Queen Pawn}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132647Z" creationid="yamanaiyuki" creationdate="20230618T132639Z">
-        <seg>translate J OprepThemeWIQP {白の孤立したクイーン側のポーン}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230730T235453Z" creationid="yamanaiyuki" creationdate="20230618T132639Z">
+        <seg>translate J OprepThemeWIQP {白の孤立したクイーン側ポーン}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>translate J OprepThemeWP567 {White Pawn on 5/6/7th rank}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T132725Z" creationid="yamanaiyuki" creationdate="20230618T132725Z">
-        <seg>translate J OprepThemeWP567 {白の5/6/7段のポーン}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230731T002328Z" creationid="yamanaiyuki" creationdate="20230618T132725Z">
+        <seg>translate J OprepThemeWP567 {白の５／６／７段目のポーン　}</seg>
       </tuv>
     </tu>
     <tu>

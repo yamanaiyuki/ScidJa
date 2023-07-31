@@ -1096,7 +1096,7 @@ translate J OprepFreqAll {全年の頻度:   }
 translate J OprepFreq1   {今日から1年以内: }
 translate J OprepFreq5   {今日から5年以内: }
 translate J OprepFreq10  {今日から10年以内: }
-translate J OprepEvery {%u ゲーム毎に1回}
+translate J OprepEvery {%u 毎の頻度}
 translate J OprepUp {上昇 %u%s 全年比}
 translate J OprepDown {下降 %u%s 全年比}
 translate J OprepSame {全年を通じて変化なし}
@@ -1132,15 +1132,15 @@ translate J OprepThemes {ポジションのテーマ}
 translate J OprepThemeDescription {各ゲームの最初の %u 手のテーマの頻度}
 translate J OprepThemeSameCastling {同じ側のキャスリング}
 translate J OprepThemeOppCastling {反対側のキャスリング}
-translate J OprepThemeNoCastling {両方ともキャスリングしていない}
-translate J OprepThemeKPawnStorm {キングサイドのポーンの突進}
-translate J OprepThemeQueenswap {クイーンの交換}
-translate J OprepThemeWIQP {白の孤立したクイーン側のポーン}
-translate J OprepThemeBIQP {黒の孤立したクイーン側のポーン}
-translate J OprepThemeWP567 {白の5/6/7段のポーン}
-translate J OprepThemeBP234 {黒の2/3/4段のポーン}
-translate J OprepThemeOpenCDE {c/d/eのオープンファイル}
-translate J OprepTheme1BishopPair {片側のみがビショップのペアを持つ}
+translate J OprepThemeNoCastling {両方ともキャスリングなし}
+translate J OprepThemeKPawnStorm {キング側ポーンの突進}
+translate J OprepThemeQueenswap {クイーン同士を交換済}
+translate J OprepThemeWIQP {白の孤立したクイーン側ポーン}
+translate J OprepThemeBIQP {黒の孤立したクイーン側ポーン}
+translate J OprepThemeWP567 {白の５／６／７段目のポーン　}
+translate J OprepThemeBP234 {黒の２／３／４段目のポーン　}
+translate J OprepThemeOpenCDE {ｃ／ｄ／ｅのオープンファイル}
+translate J OprepTheme1BishopPair {片側がビショップペア}
 translate J OprepEndgames {エンドゲーム}
 translate J OprepReportGames {ゲームレポート}
 translate J OprepAllGames    {すべてのゲーム}
