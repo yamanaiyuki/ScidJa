@@ -18420,8 +18420,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>To finish the current game by the engine ("shoot out" or "demo" mode) one can use the finish game button &lt;button tb_finish_off&gt;.</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230628T053658Z" creationid="yamanaiyuki" creationdate="20230628T053643Z">
-        <seg>エンジンによって現在のゲームを終了する(「シュートアウト」または「デモ」モード)には、ゲーム終了ボタン&lt;button tb_finish_off&gt;を使用できます。</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T143810Z" creationid="yamanaiyuki" creationdate="20230628T053643Z">
+        <seg>エンジンによって現在のゲームを終わらせる(「シュートアウト」または「デモ」モード)には、ゲーム終了ボタン&lt;button tb_finish_off&gt;を使用できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28081,8 +28081,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J FinishGame {Finish game}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230615T014146Z" creationid="yamanaiyuki" creationdate="20230615T014146Z">
-        <seg>translate J FinishGame {ゲームを終了}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T143701Z" creationid="yamanaiyuki" creationdate="20230615T014146Z">
+        <seg>translate J FinishGame {ゲームを終わらせる}</seg>
       </tuv>
     </tu>
     <tu>

@@ -611,7 +611,7 @@ translate J AddMove {指し手を追加}
 translate J Annotate {注釈}
 translate J ShowAnalysisBoard {分析ボードを表示}
 translate J ShowInfo {エンジンの情報を表示}
-translate J FinishGame {ゲームを終了}
+translate J FinishGame {ゲームを終わらせる}
 translate J StopEngine {エンジンを停止}
 translate J StartEngine {エンジンを開始}
 translate J LockEngine {現在のポジションにエンジンを固定}
@@ -3938,7 +3938,7 @@ set helpText(J,Analysis) {<h1>分析ウィンドウ</h1>
   Scidはメインボードの変更をエンジンに送信するのを停止し、エンジンはポジションの計算を続けます。
   </p>
   <p>
-  エンジンによって現在のゲームを終了する(「シュートアウト」または「デモ」モード)には、ゲーム終了ボタン<button tb_finish_off>を使用できます。
+  エンジンによって現在のゲームを終わらせる(「シュートアウト」または「デモ」モード)には、ゲーム終了ボタン<button tb_finish_off>を使用できます。
   シュートアウトモードになるとこのボタンが<button tb_finish_on>に変わります。
   この機能は最初の分析エンジンでのみ使用可能です。
   </p>
