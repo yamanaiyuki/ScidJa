@@ -25840,8 +25840,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J BestSolutionNotFound {Best solution NOT found !}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125518Z" creationid="yamanaiyuki" creationdate="20230619T125518Z">
-        <seg>translate J BestSolutionNotFound {最善答が見つかりません！}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045653Z" creationid="yamanaiyuki" creationdate="20230619T125518Z">
+        <seg>translate J BestSolutionNotFound {最善手ではありません！}</seg>
       </tuv>
     </tu>
     <tu>
@@ -27464,8 +27464,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J Expected {expected}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125641Z" creationid="yamanaiyuki" creationdate="20230619T125641Z">
-        <seg>translate J Expected {期待値}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045735Z" creationid="yamanaiyuki" creationdate="20230619T125641Z">
+        <seg>translate J Expected {正解のスコア}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29649,16 +29649,16 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J MateFound {Mate found}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T022547Z" creationid="yamanaiyuki" creationdate="20230619T022547Z">
-        <seg>translate J MateFound {メイトが見つかりました}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T050757Z" creationid="yamanaiyuki" creationdate="20230619T022547Z">
+        <seg>translate J MateFound {メイトになりました}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>translate J MateNotFound {Mate not found}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125527Z" creationid="yamanaiyuki" creationdate="20230619T125527Z">
-        <seg>translate J MateNotFound {メイトが見つかりません}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045709Z" creationid="yamanaiyuki" creationdate="20230619T125527Z">
+        <seg>translate J MateNotFound {メイトになりません}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31681,8 +31681,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J ScorePlayed {Score played}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125632Z" creationid="yamanaiyuki" creationdate="20230619T125632Z">
-        <seg>translate J ScorePlayed {プレイしたスコア}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045728Z" creationid="yamanaiyuki" creationdate="20230619T125632Z">
+        <seg>translate J ScorePlayed {指した手のスコア}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31849,8 +31849,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J ShorterMateExists {Shorter mate exists}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125621Z" creationid="yamanaiyuki" creationdate="20230619T125621Z">
-        <seg>translate J ShorterMateExists {短いメイトが存在します}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045700Z" creationid="yamanaiyuki" creationdate="20230619T125621Z">
+        <seg>translate J ShorterMateExists {もっと短いメイトが存在します}</seg>
       </tuv>
     </tu>
     <tu>
@@ -31921,8 +31921,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J ShowSolution {Show solution}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125350Z" creationid="yamanaiyuki" creationdate="20230619T125350Z">
-        <seg>translate J ShowSolution {解答を表示}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T050055Z" creationid="yamanaiyuki" creationdate="20230619T125350Z">
+        <seg>translate J ShowSolution {正解を表示}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32305,8 +32305,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J Thinking {Thinking}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230619T125704Z" creationid="yamanaiyuki" creationdate="20230619T125704Z">
-        <seg>translate J Thinking {思考中}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045801Z" creationid="yamanaiyuki" creationdate="20230619T125704Z">
+        <seg>translate J Thinking {計算中}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,8 +33161,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>translate J WinWonGame {Win won game}</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230703T002948Z" creationid="yamanaiyuki" creationdate="20230619T125736Z">
-        <seg>translate J WinWonGame {勝利のゲーム}</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230801T045828Z" creationid="yamanaiyuki" creationdate="20230619T125736Z">
+        <seg>translate J WinWonGame {勝利するゲーム}</seg>
       </tuv>
     </tu>
     <tu>
