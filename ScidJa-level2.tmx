@@ -21187,8 +21187,8 @@
       <tuv xml:lang="en-US">
         <seg>menuText J PgnOptBoldMainLine "Use Bold Text for Main Line Moves" 4</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230617T145857Z" creationid="yamanaiyuki" creationdate="20230617T145857Z">
-        <seg>menuText J PgnOptBoldMainLine "メインラインの指し手に太字を使用" 4</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230804T090303Z" creationid="yamanaiyuki" creationdate="20230617T145857Z">
+        <seg>menuText J PgnOptBoldMainLine "メインラインに太字を使用" 4</seg>
       </tuv>
     </tu>
     <tu>
@@ -21235,16 +21235,16 @@
       <tuv xml:lang="en-US">
         <seg>menuText J PgnOptSpace "Space after Move Numbers" 1</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230618T000737Z" creationid="yamanaiyuki" creationdate="20230617T145752Z">
-        <seg>menuText J PgnOptSpace "手番号の後に空白" 1</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230804T085911Z" creationid="yamanaiyuki" creationdate="20230617T145752Z">
+        <seg>menuText J PgnOptSpace "移動番号の後に空行" 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>menuText J PgnOptStripMarks "Strip out Colored Square/Arrow Codes" 1</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230617T145819Z" creationid="yamanaiyuki" creationdate="20230617T145819Z">
-        <seg>menuText J PgnOptStripMarks "色付きのスクエア/矢印のコードを取り除く" 1</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230804T090247Z" creationid="yamanaiyuki" creationdate="20230617T145819Z">
+        <seg>menuText J PgnOptStripMarks "色付きのスクエア/矢印のコードを隠す" 1</seg>
       </tuv>
     </tu>
     <tu>

@@ -679,9 +679,9 @@ menuText J PgnOptSymbols "注釈記号" 1
 menuText J PgnOptIndentC "コメントのインデント" 0
 menuText J PgnOptIndentV "バリエーションのインデント" 7
 menuText J PgnOptColumn "カラムスタイル(1行につき1指し手)" 1
-menuText J PgnOptSpace "手番号の後に空白" 1
-menuText J PgnOptStripMarks "色付きのスクエア/矢印のコードを取り除く" 1
-menuText J PgnOptBoldMainLine "メインラインの指し手に太字を使用" 4
+menuText J PgnOptSpace "移動番号の後に空行" 1
+menuText J PgnOptStripMarks "色付きのスクエア/矢印のコードを隠す" 1
+menuText J PgnOptBoldMainLine "メインラインに太字を使用" 4
 menuText J PgnColor "色" 0
 menuText J PgnColorHeader "ヘッダー..." 0
 menuText J PgnColorAnno "注釈..." 0
