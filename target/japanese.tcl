@@ -2009,7 +2009,7 @@ set helpText(J,Index) {<h1>Scidヘルプトピック索引</h1>
   <h3>O</h3>
   <ul>
   <li><a ECO>オープニング分類(ECO)</a></li>
-  <li><a Reports Opening>オープニングレポートt</a>ウィンドウ</li>
+  <li><a Reports Opening>オープニングレポート</a>ウィンドウ</li>
   <li><a OpeningTrainer>トレーニング: オープニング</a></li>
   <li><a Options>オプション</a></li>
   </ul>

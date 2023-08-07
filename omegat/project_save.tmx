@@ -6770,8 +6770,8 @@ menuText J SearchUsing "Using Search File..." 0 {Search using a SearchOptions fi
       <tuv lang="en-US">
         <seg>&lt;li&gt;&lt;a Reports Opening&gt;Opening report&lt;/a&gt; window&lt;/li&gt;</seg>
       </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230620T072128Z" creationid="yamanaiyuki" creationdate="20230620T072128Z">
-        <seg>&lt;li&gt;&lt;a Reports Opening&gt;オープニングレポートt&lt;/a&gt;ウィンドウ&lt;/li&gt;</seg>
+      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230806T163903Z" creationid="yamanaiyuki" creationdate="20230620T072128Z">
+        <seg>&lt;li&gt;&lt;a Reports Opening&gt;オープニングレポート&lt;/a&gt;ウィンドウ&lt;/li&gt;</seg>
       </tuv>
     </tu>
     <tu>
