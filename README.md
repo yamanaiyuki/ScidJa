@@ -1,5 +1,5 @@
 # Scid Unofficial Japanese Translation
-Scidを日本語に翻訳する非公式なものです。
+Scid(Shane's Chess Information Database: チェスの大規模な対局データベースを表示およびメンテするアプリケーション)を日本語に翻訳する非公式なものです。
 対応しているScidのバージョンは5.0.2です。
 適用方法および注意事項をまとめてありますので必要なときに目を通すようにしてください。
 
