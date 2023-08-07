@@ -30123,14 +30123,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>translate J Total {Total}</seg>
-      </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230625T013307Z" creationid="yamanaiyuki" creationdate="20230614T134157Z">
-        <seg>translate J Total {計}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>translate J TrackerGames {% games with move to square}</seg>
       </tuv>
       <tuv lang="ja" changeid="yamanaiyuki" changedate="20230625T230057Z" creationid="yamanaiyuki" creationdate="20230618T134037Z">
@@ -30239,14 +30231,6 @@
       </tuv>
       <tuv lang="ja" changeid="yamanaiyuki" changedate="20230617T115010Z" creationid="yamanaiyuki" creationdate="20230617T115010Z">
         <seg>translate J TreeTitleRow \</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>translate J TreeTotal {TOTAL}</seg>
-      </tuv>
-      <tuv lang="ja" changeid="yamanaiyuki" changedate="20230625T013311Z" creationid="yamanaiyuki" creationdate="20230615T013104Z">
-        <seg>translate J TreeTotal {計}</seg>
       </tuv>
     </tu>
     <tu>

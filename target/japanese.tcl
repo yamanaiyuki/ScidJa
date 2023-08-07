@@ -383,7 +383,7 @@ translate J empty {空}
 translate J clipbase {クリップベース}
 translate J score {スコア}
 translate J StartPos {開始位置}
-translate J Total {計}
+translate J Total {Total}
 translate J readonly {読み取り専用}
 
 # Standard error messages:
@@ -497,7 +497,7 @@ translate J TreeBestGames {ベストツリーゲーム}
 # check the tree window to make sure it lines up with the actual columns.
 translate J TreeTitleRow \
   {  指し手   ECO          頻度     スコア  Elo   評価  年   引分%}
-translate J TreeTotal {計}
+translate J TreeTotal {TOTAL}
 translate J DoYouWantToSaveFirst {まず保存しますか}
 translate J AddToMask {マスクを追加}
 translate J RemoveFromMask {マスクを削除}
