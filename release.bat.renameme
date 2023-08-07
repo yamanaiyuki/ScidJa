@@ -1,0 +1,20 @@
+rem リリース用簡易バッチ
+rem 実行例
+rem .\release.bat 1.0
+if "%1"=="" goto :eof
+
+mkdir temp
+xcopy README.md temp
+xcopy LICENSE temp
+
+mkdir temp\bin
+mkdir temp\bin\tcl
+
+mkdir temp\bin\tcl\lang
+xcopy target\japanese.tcl temp\bin\tcl\lang
+xcopy backup_language\* temp\bin\tcl
+
+Powershell Compress-Archive -Path temp\* -DestinationPath scid_ja_%1.zip
+
+rd /s /q temp
+rem pause
