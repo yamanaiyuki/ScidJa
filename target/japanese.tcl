@@ -498,7 +498,7 @@ translate J TreeBestGames {ベストツリーゲーム}
 translate J TreeTitleRow \
   {  指し手   ECO          頻度     スコア  Elo   評価  年   引分%}
 translate J TreeTotal {TOTAL}
-translate J DoYouWantToSaveFirst {まず保存しますか}
+translate J DoYouWantToSaveFirst {先に保存しますか}
 translate J AddToMask {マスクを追加}
 translate J RemoveFromMask {マスクを削除}
 translate J AddThisMoveToMask {この手をマスクに追加}
@@ -1466,7 +1466,7 @@ translate J BenkoGambit {ベンコー ギャンビット}
 translate J ModernBenoni {モダン ベノニ}
 translate J DutchDefence {ダッチ ディフェンス}
 translate J Scandinavian {スカンディナビアン}
-translate J AlekhineDefence {アレキン ディフェンス}
+translate J AlekhineDefence {アレヒン ディフェンス}
 translate J Pirc {ピルツ}
 translate J CaroKann {カロ・カン}
 translate J CaroKannAdvance {カロ・カン アドバンス}

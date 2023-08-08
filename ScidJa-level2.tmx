@@ -23308,8 +23308,8 @@
       <tuv xml:lang="en-US">
         <seg>translate J AlekhineDefence {Alekhine Defence}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230614T155344Z" creationid="yamanaiyuki" creationdate="20230614T155134Z">
-        <seg>translate J AlekhineDefence {アレキン ディフェンス}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230807T161333Z" creationid="yamanaiyuki" creationdate="20230614T155134Z">
+        <seg>translate J AlekhineDefence {アレヒン ディフェンス}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24612,8 +24612,8 @@
       <tuv xml:lang="en-US">
         <seg>translate J DoYouWantToSaveFirst {Do you want to save first}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230626T143326Z" creationid="yamanaiyuki" creationdate="20230617T053758Z">
-        <seg>translate J DoYouWantToSaveFirst {まず保存しますか}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230808T053831Z" creationid="yamanaiyuki" creationdate="20230617T053758Z">
+        <seg>translate J DoYouWantToSaveFirst {先に保存しますか}</seg>
       </tuv>
     </tu>
     <tu>
