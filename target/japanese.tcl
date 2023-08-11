@@ -933,10 +933,10 @@ translate J NewSubmenu "新しいサブメニュー"
 # Comment editor:
 translate J AnnotationSymbols  {注釈記号:}
 translate J Comment {コメント:}
-translate J InsertMark {マークを挿入}
+translate J InsertMark {使い方(メインボード上で)}
 translate J InsertMarkHelp {
-マークの挿入/削除: 色、種類、スクエアを選択。
-矢印の挿入/削除: 右クリックでドラッグ。
+マスを右クリック -> マークの追加/削除
+右ボタンでドラッグ -> 矢印の追加/削除
 }
 
 # Nag buttons in comment editor:

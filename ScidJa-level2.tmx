@@ -12276,16 +12276,16 @@
       <tuv xml:lang="en-US">
         <seg>Insert/remove arrow: Right-click two squares.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230615T111907Z" creationid="yamanaiyuki" creationdate="20230615T111354Z">
-        <seg>矢印の挿入/削除: 右クリックでドラッグ。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230810T005512Z" creationid="yamanaiyuki" creationdate="20230615T111354Z">
+        <seg>右ボタンでドラッグ -&gt; 矢印の追加/削除</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Insert/remove mark: Select color, type, square.</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230615T111322Z" creationid="yamanaiyuki" creationdate="20230615T111322Z">
-        <seg>マークの挿入/削除: 色、種類、スクエアを選択。</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230810T005046Z" creationid="yamanaiyuki" creationdate="20230615T111322Z">
+        <seg>マスを右クリック -&gt; マークの追加/削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -27005,8 +27005,8 @@
       <tuv xml:lang="en-US">
         <seg>translate J InsertMark {Insert mark}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230615T111241Z" creationid="yamanaiyuki" creationdate="20230615T111241Z">
-        <seg>translate J InsertMark {マークを挿入}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230810T005821Z" creationid="yamanaiyuki" creationdate="20230615T111241Z">
+        <seg>translate J InsertMark {使い方(メインボード上で)}</seg>
       </tuv>
     </tu>
     <tu>
