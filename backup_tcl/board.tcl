@@ -873,7 +873,7 @@ proc ::board::resize {w psize} {
   }
 
   # resize the material canvas
-  $w.mat configure -height $bsize
+  $w.mat configure -width $psize -height $bsize
 
   ::board::coords $w $::board::_coords($w)
   ::board::update $w
@@ -1789,19 +1789,20 @@ proc ::board::material {w} {
   foreach pType {q r b n p} {
     set count [expr "\$$pType"]
     if {$count < 0} {
-      addMaterial $count $pType $f $rank $sum
+      addMaterial $w $count $pType $f $rank $sum
       incr rank [expr abs($count) ]
     }
   }
   foreach pType {q r b n p} {
     set count [expr "\$$pType"]
     if {$count > 0} {
-      addMaterial $count $pType $f $rank $sum
+      addMaterial $w $count $pType $f $rank $sum
       incr rank [expr abs($count) ]
     }
   }
 }
-proc ::board::addMaterial {count piece parent rank sum} {
+proc ::board::addMaterial {w count piece parent rank sum} {
+  global boardSizes
   if {$count == 0} {return}
   if {$count <0} {
     set col "b"
@@ -1809,14 +1810,21 @@ proc ::board::addMaterial {count piece parent rank sum} {
   } else  {
     set col "w"
   }
+  set harfsize [expr {$::board::_size($w) / 2}]
+  set psize [lindex $boardSizes 0]
+  foreach s $boardSizes {
+    if { $s <= $harfsize} {
+      set psize $s
+    }
+  }
   set w [$parent cget -width]
   set h [$parent cget -height]
-  set offset [expr ($h - ($sum * 20)) / 2]
+  set offset [expr ($h - ($sum * $psize)) / 2]
   if {$offset <0} { set offset 0 }
   set x [expr $w / 2]
   for {set i 0} {$i<$count} {incr i} {
-    set y [expr $rank * 20 +10 + $offset + $i * 20]
-    $parent create image $x $y -image $col${piece}20 -tag material
+    set y [expr $rank * $psize +10 + $offset + $i * $psize]
+    $parent create image $x $y -image $col${piece}$psize -tag material
   }
 }
 proc ::board::toggleMaterial {w} {
