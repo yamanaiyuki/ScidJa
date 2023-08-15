@@ -495,7 +495,8 @@ proc ::board::new {w {psize 40} } {
   canvas $w.score -width 8
   grid $w.score -row 6 -column 12 -rowspan 8 -sticky ew
   grid remove $w.score
-  canvas $w.mat -width 20 -height $bsize -highlightthickness 0
+  set halfsize [expr {int($psize / 2)}]
+  canvas $w.mat -width $halfsize -height $bsize -highlightthickness 0
   ::applyThemeColor_background $w.mat
   grid $w.mat -row 6 -column 13 -rowspan 8 -pady 0
   grid remove $w.mat
@@ -873,7 +874,8 @@ proc ::board::resize {w psize} {
   }
 
   # resize the material canvas
-  $w.mat configure -width $psize -height $bsize
+  set halfsize [expr {int($psize / 2)}]
+  $w.mat configure -width $halfsize -height $bsize
 
   ::board::coords $w $::board::_coords($w)
   ::board::update $w
@@ -1810,10 +1812,10 @@ proc ::board::addMaterial {w count piece parent rank sum} {
   } else  {
     set col "w"
   }
-  set harfsize [expr {$::board::_size($w) / 2}]
+  set halfsize [expr {int($::board::_size($w) / 2)}]
   set psize [lindex $boardSizes 0]
   foreach s $boardSizes {
-    if { $s <= $harfsize} {
+    if { $s <= $halfsize} {
       set psize $s
     }
   }
