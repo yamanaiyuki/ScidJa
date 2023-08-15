@@ -11,6 +11,22 @@ ScidのインストールされているフォルダをF:\Games\scid_windows_x64
 - F:\Games\scid_windows_x64\bin\tcl にあるlanguage.tclを解凍して出てきたものに上書きします
 
 
+## extrasフォルダについて
+extrasフォルダにはオプションとしてScidの外観を調整する改造ファイルが同梱されています。
+- コメントエディタの説明が日本語化されます。
+- コメントの配色が変更されます。(原色→明るめの中間色)
+- 矢印が太くなります。
+- メインボードのマテリアルアイコンが大きくなります。(20固定→可変に変更)
+
+適用するにはScidのbin\tcl内およびbin\tcl\windows内にコピーしてください。
+具体的には、ScidのインストールされているフォルダをF:\Games\scid_windows_x64と仮定した場合
+- F:\Games\scid_windows_x64\bin\tcl\board.tcl
+- F:\Games\scid_windows_x64\bin\tcl\options.tcl
+- F:\Games\scid_windows_x64\bin\tcl\windows\comment.tcl
+
+という3つのファイルをそれぞれ上書きします。
+
+
 # 注意事項 ヘルプについて
 Scidは歴史のあるソフトで、旧バージョンから更新されていないヘルプが多く、すでに存在しなかったり、すでに変更されているのに古いままの記述が残っています。
 
