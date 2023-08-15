@@ -9,10 +9,14 @@ xcopy LICENSE temp
 
 mkdir temp\bin
 mkdir temp\bin\tcl
-
 mkdir temp\bin\tcl\lang
 xcopy target\japanese.tcl temp\bin\tcl\lang
 xcopy backup_language\* temp\bin\tcl
+
+mkdir temp\extras
+mkdir temp\extras\bin
+mkdir temp\extras\bin\tcl
+xcopy backup_tcl\* temp\extras\bin\tcl /s
 
 Powershell Compress-Archive -Path temp\* -DestinationPath scid_ja_%1.zip
 
