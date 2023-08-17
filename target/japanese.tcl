@@ -1028,7 +1028,7 @@ translate J ClassifyGame {ゲームを分類}
 # Setup position:
 translate J EmptyBoard {ボードを空にする}
 translate J InitialBoard {ボードを初期化}
-translate J SideToMove {移動する側}
+translate J SideToMove {手番}
 translate J MoveNumber {手番号}
 translate J Castling {キャスリング}
 translate J EnPassantFile {アンパッサンファイル}

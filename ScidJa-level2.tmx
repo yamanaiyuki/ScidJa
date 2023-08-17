@@ -29677,8 +29677,8 @@
       <tuv xml:lang="en-US">
         <seg>translate J SideToMove {Side to move}</seg>
       </tuv>
-      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230615T075211Z" creationid="yamanaiyuki" creationdate="20230615T075211Z">
-        <seg>translate J SideToMove {移動する側}</seg>
+      <tuv xml:lang="ja" changeid="yamanaiyuki" changedate="20230817T003802Z" creationid="yamanaiyuki" creationdate="20230615T075211Z">
+        <seg>translate J SideToMove {手番}</seg>
       </tuv>
     </tu>
     <tu>
